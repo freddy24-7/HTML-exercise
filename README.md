@@ -1,4 +1,4 @@
-# Opdrachtbeschrijving
+ # Opdrachtbeschrijving
 
 Je gaat een pagina opbouwen met HTML die er **exact** zo uit ziet zoals het voorbeeld hieronder. De gebruikte afbeeldingen kun je terugvinden in de map `assets`. De pagina's waarin jij jouw HTML gaat schrijven, kun je vinden in de map `pages`. **Je hoeft dus zelf geen nieuwe bestanden aan te maken!** 
 
